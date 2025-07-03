@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jaid"
-  avatar : "/assets/images/tck-logo.jpg"
+  avatar : "/assets/images/tck-logo.png"
   bio    : "History of The Casted Kin."
   links:
     - label: "Website"
