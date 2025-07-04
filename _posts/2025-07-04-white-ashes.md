@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Heren
+  - Veyrn
   - Hollows
   - Harvesters
 ---
@@ -14,7 +14,7 @@ tags:
 
 They called him **Veyrn Thal**, a Kynari born beneath a rusted dome, where rain never fell but Ky sometimes dripped from cracked piping like divine spit. He wasn’t special—except in the way fools often are: convinced that fate was his mistress and death an affair he could slip out of.
 
-He wore his brother’s boots, two sizes too big and blood-warped at the soles, and carried a copper polearm he’d wrenched from the back of a dead Harmonist. The shaft still hummed faintly, unaware it had changed owners. Heren liked that. The world pretending not to notice made everything feel cleaner.
+He wore his brother’s boots, two sizes too big and blood-warped at the soles, and carried a copper polearm he’d wrenched from the back of a dead Harmonist. The shaft still hummed faintly, unaware it had changed owners. Veyrn liked that. The world pretending not to notice made everything feel cleaner.
 
 He was a scavenger, a whisper on fungal winds. Some said he’d been seen walking alone where even god-favored patrols wouldn’t go. Some said he was already Hollow, and the only thing left in him was memory stubborn enough to wear skin
 
@@ -58,11 +58,11 @@ And for the briefest moment, everything sang. Not a song he could hum—but a vi
 
 The Harvesters came immediately. Not like guards. Like blood returning to a wound.
 
-They didn’t speak, but Heren *heard* them: in colors. Blue-sharp, like regret. Green-dull, like meat left out too long. One touched his forehead with a digit that split open like a tulip, revealing gears made of bone and teeth that hadn’t been chewed.
+They didn’t speak, but Veyrn *heard* them: in colors. Blue-sharp, like regret. Green-dull, like meat left out too long. One touched his forehead with a digit that split open like a tulip, revealing gears made of bone and teeth that hadn’t been chewed.
 
 And just like that, he felt it *pull*.
 
-His **Ky** shivered, then bucked, then begged. It started to leave in slow, spiraling strands, escaping through his pores like smoke. He screamed but not with his mouth—with every memory that made him Heren.
+His **Ky** shivered, then bucked, then begged. It started to leave in slow, spiraling strands, escaping through his pores like smoke. He screamed but not with his mouth—with every memory that made him Veyrn.
 
 He saw his brother’s boots being tied on for the first time. He saw the man he killed with a rock in the dark for one extra ration. He saw his mother’s necklace—the one he pawned for two Ky and a jar of salt meat. All of it *ripped out*.
 
