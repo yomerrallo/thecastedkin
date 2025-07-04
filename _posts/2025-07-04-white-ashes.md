@@ -100,5 +100,5 @@ Because he looks like he burned from the inside, and somehow, never stopped smol
 
 <br/><br/>
 **"White Ashes"**
-*— A Tale from *The Casted Kin*, written by the world’s Lore Architect*
+*— A Tale from *The Casted Kin*, written by Jaid - The Third Architect*
 <br/>
