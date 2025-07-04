@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jaid"
+  name   : "Jaid - The Third Architect"
   avatar : "/assets/images/tck-logo.png"
   bio    : "History of The Casted Kin."
   links:
